@@ -1,2 +1,2 @@
-# 01-preparacao-do-ambiente
+# Preparação do ambiente
 Sistemas Unix
