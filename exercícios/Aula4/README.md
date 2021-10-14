@@ -8,6 +8,7 @@ avançado.
 
 ### Teste de ambiente
 * Clone [este repositório](https://github.com/ai2-education-fiep-turma-4/git-katas.git)
+
 O Script `test-all.sh` é responsável por verificar a compatibilidade do
 ambiente com o conjunto de exercícios.
 
