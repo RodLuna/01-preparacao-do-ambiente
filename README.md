@@ -14,7 +14,7 @@ Sistemas Unix
 
 * Aula 4 - Introdução ao Git ([Slides](https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/blob/main/slides/Aula4/)) ([Exercicios](https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/tree/main/exercicios/Aula4))
 
-* Aula 5 - Workflow de Trabalho com Git ([Slides](https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/blob/main/slides/Aula5/)) ([Exercicios](https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/tree/main/exercicios/Aula5))
+* Aula 5 - Workflow de Trabalho com Git ([Slides](https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/blob/main/slides/Aula5/)) ([Exercicios](https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/tree/main/exercicios/Aula5)) ([Duplas Trabalho 1] (https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/tree/main/exercicios/Aula5))
 
 
 
