@@ -12,7 +12,7 @@ Sistemas Unix
 
     Os Exercícios para essa aula foram salvos em um Container e serão disponibilizados assim que efetuado a entrega final.
 
-* Aula 4 - Introdução ao Git ([Slides](https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/blob/main/slides/Aula4/)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/blob/main/exercicios/aula4))
+* Aula 4 - Introdução ao Git ([Slides](https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/blob/main/slides/Aula4/)) ([Exercícios](https://github.com/ai2-education-fiep-turma-4/01-preparacao-do-ambiente/tree/main/exerc%C3%ADcios/Aula4))
 
 
 

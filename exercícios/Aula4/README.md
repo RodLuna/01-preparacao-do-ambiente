@@ -21,18 +21,18 @@ ambiente com o conjunto de exercícios.
 ### Lista de Exercícios sugeridos:
 
 1. [Configuração Básica do
-   Git](https://github.com/ai2-education-fiep-turma-3/git-katas/tree/master/configure-git)
-1. [Básico sobre commits](https://github.com/ai2-education-fiep-turma-3/git-katas/tree/master/basic-commits)
+   Git](https://github.com/ai2-education-fiep-turma-4/git-katas/tree/master/configure-git)
+1. [Básico sobre commits](https://github.com/ai2-education-fiep-turma-4/git-katas/tree/master/basic-commits)
 1. [Básico sobre
-   staging](https://github.com/ai2-education-fiep-turma-3/git-katas/tree/master/basic-staging)
-1. [Básico sobre branching](https://github.com/ai2-education-fiep-turma-3/git-katas/blob/master/basic-branching)
-1. [Básico sobre merging](https://github.com/ai2-education-fiep-turma-3/git-katas/blob/master/ff-merge)
-1. [Básico sobre ignore](https://github.com/ai2-education-fiep-turma-3/git-katas/tree/master/ignore)
+   staging](https://github.com/ai2-education-fiep-turma-4/git-katas/tree/master/basic-staging)
+1. [Básico sobre branching](https://github.com/ai2-education-fiep-turma-4/git-katas/blob/master/basic-branching)
+1. [Básico sobre merging](https://github.com/ai2-education-fiep-turma-4/git-katas/blob/master/ff-merge)
+1. [Básico sobre ignore](https://github.com/ai2-education-fiep-turma-4/git-katas/tree/master/ignore)
 1. [Básico sobre
-   revert](https://github.com/ai2-education-fiep-turma-3/git-katas/tree/master/basic-revert)
-1. [Workflow baseado em uma branch Master](https://github.com/ai2-education-fiep-turma-3/git-katas/tree/master/master-based-workflow)
-1. [Básico sobre reset](https://github.com/ai2-education-fiep-turma-3/git-katas/blob/master/reset/)
-1. [Básico sobre stashing](https://github.com/ai2-education-fiep-turma-3/git-katas/blob/master/basic-stashing)
+   revert](https://github.com/ai2-education-fiep-turma-4/git-katas/tree/master/basic-revert)
+1. [Workflow baseado em uma branch Master](https://github.com/ai2-education-fiep-turma-4/git-katas/tree/master/master-based-workflow)
+1. [Básico sobre reset](https://github.com/ai2-education-fiep-turma-4/git-katas/blob/master/reset/)
+1. [Básico sobre stashing](https://github.com/ai2-education-fiep-turma-4/git-katas/blob/master/basic-stashing)
 
 
 
