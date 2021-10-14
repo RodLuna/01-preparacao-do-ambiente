@@ -7,12 +7,11 @@ objetivo de familiarizar o desenvolvedor com conceitos do nível básico ao
 avançado.
 
 ### Teste de ambiente
-
+* Clone [este repositório](https://github.com/ai2-education-fiep-turma-4/git-katas.git)
 O Script `test-all.sh` é responsável por verificar a compatibilidade do
 ambiente com o conjunto de exercícios.
 
 ### Executando um exercício
-* Clone [este repositório](https://github.com/ai2-education-fiep-turma-4/git-katas.git)
 * Vá para a pasta em que deseja resolver um exercício
 * Execute o script setup.sh: `source setup.sh`
 * Consulte o README.md na pasta que contém o exercício para obter uma descrição do que deve ser feito
